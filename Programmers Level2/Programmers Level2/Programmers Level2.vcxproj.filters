@@ -69,5 +69,8 @@
     <ClCompile Include="moreSpicy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="wordChain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
