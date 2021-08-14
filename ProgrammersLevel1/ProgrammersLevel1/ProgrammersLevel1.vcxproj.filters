@@ -93,20 +93,11 @@
     <ClCompile Include="matrixAddition.cpp">
       <Filter>Level1</Filter>
     </ClCompile>
-    <ClCompile Include="uniform.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="WhereIsKim.cpp">
       <Filter>Level1</Filter>
     </ClCompile>
     <ClCompile Include="numberSort.cpp">
       <Filter>Level1</Filter>
-    </ClCompile>
-    <ClCompile Include="remainZero.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="GCDAndLCM.cpp">
-      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="budget.cpp">
       <Filter>Level1</Filter>
@@ -129,37 +120,49 @@
     <ClCompile Include="xPlusX.cpp">
       <Filter>Level1</Filter>
     </ClCompile>
-    <ClCompile Include="failureRate.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dartGame.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="craneDoll.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="secretMap.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="test1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ponketmon.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="uniform.cpp">
+      <Filter>Level1</Filter>
     </ClCompile>
-    <ClCompile Include="makePrimeNumbers.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="craneDoll.cpp">
+      <Filter>Level1</Filter>
     </ClCompile>
-    <ClCompile Include="negativeAndPositive.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="dartGame.cpp">
+      <Filter>Level1</Filter>
     </ClCompile>
     <ClCompile Include="divisorAndSum.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="failureRate.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="GCDAndLCM.cpp">
+      <Filter>Level1</Filter>
     </ClCompile>
     <ClCompile Include="lottery.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="makePrimeNumbers.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="negativeAndPositive.cpp">
+      <Filter>Level1</Filter>
     </ClCompile>
     <ClCompile Include="NumberWords.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="ponketmon.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="remainZero.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="secretMap.cpp">
+      <Filter>Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="keyPad.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

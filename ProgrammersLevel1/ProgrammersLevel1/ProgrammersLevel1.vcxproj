@@ -158,6 +158,7 @@
     <ClCompile Include="IHateSameNumber.cpp" />
     <ClCompile Include="indexK.cpp" />
     <ClCompile Include="inner.cpp" />
+    <ClCompile Include="keyPad.cpp" />
     <ClCompile Include="lottery.cpp" />
     <ClCompile Include="makePrimeNumbers.cpp" />
     <ClCompile Include="marathon.cpp" />
